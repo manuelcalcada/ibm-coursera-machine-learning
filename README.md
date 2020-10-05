@@ -15,3 +15,5 @@ The works were done for the following laboratories:
   - Hieralchical Clustering
 
 Finally, this repository also presents my final project for the course.
+
+Also, see [my LinkedIn](https://www.linkedin.com/in/manuelcalcada/).
